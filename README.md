@@ -1,2 +1,2 @@
 # HelloGithub
-This is my first official Github repo.
+This is my first formal GitHub repo.
